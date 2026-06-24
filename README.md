@@ -7,4 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/keyurmishra/Problem_solving/tree/master/0008-string-to-integer-atoi) |
+| [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
