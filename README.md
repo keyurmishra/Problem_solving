@@ -21,9 +21,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keyurmishra/Problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0275-h-index-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0275-h-index-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keyurmishra/Problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0275-h-index-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0275-h-index-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
