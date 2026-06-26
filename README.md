@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0275-h-index-ii) |
 | [0485-max-consecutive-ones](https://github.com/keyurmishra/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/keyurmishra/Problem_solving/tree/master/0069-sqrtx) |
 | [0275-h-index-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0275-h-index-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
