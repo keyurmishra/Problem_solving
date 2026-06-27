@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/keyurmishra/Problem_solving/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 ## Math
 |  |
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
