@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keyurmishra/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/keyurmishra/Problem_solving/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keyurmishra/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keyurmishra/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
