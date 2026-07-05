@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/keyurmishra/Problem_solving/tree/master/0547-number-of-provinces) |
+| [1615-maximal-network-rank](https://github.com/keyurmishra/Problem_solving/tree/master/1615-maximal-network-rank) |
 ## Two Pointers
 |  |
 | ------- |
