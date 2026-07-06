@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/keyurmishra/Problem_solving/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
+| [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
 ## Hash Table
 |  |
@@ -121,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/keyurmishra/Problem_solving/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
