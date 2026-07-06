@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/keyurmishra/Problem_solving/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keyurmishra/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/keyurmishra/Problem_solving/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/keyurmishra/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/keyurmishra/Problem_solving/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
 ## String Matching
 |  |
