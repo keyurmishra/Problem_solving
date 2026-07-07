@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keyurmishra/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/keyurmishra/Problem_solving/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/keyurmishra/Problem_solving/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keyurmishra/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
