@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keyurmishra/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0275-h-index-ii) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0283-move-zeroes](https://github.com/keyurmishra/Problem_solving/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
 ## String Matching
