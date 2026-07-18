@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/keyurmishra/Problem_solving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/keyurmishra/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/keyurmishra/Problem_solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keyurmishra/Problem_solving/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keyurmishra/Problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keyurmishra/Problem_solving/tree/master/0064-minimum-path-sum) |
@@ -171,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3843-first-element-with-unique-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/3843-first-element-with-unique-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/keyurmishra/Problem_solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
