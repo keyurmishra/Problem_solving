@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/keyurmishra/Problem_solving/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/keyurmishra/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/keyurmishra/Problem_solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keyurmishra/Problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/keyurmishra/Problem_solving/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/keyurmishra/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
 | [3843-first-element-with-unique-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Sorting
