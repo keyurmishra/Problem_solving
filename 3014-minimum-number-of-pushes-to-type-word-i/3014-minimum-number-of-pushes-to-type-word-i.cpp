@@ -6,6 +6,11 @@ public:
             ans+=i/8+1;
         }
         return ans;
+        // int ans=0;
+        // for(char ch:word){
+        //     ans+=ch/8+1;
+        // }
+        // return ans;
         
     }
 };
