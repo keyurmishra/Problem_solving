@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
 | [1331-rank-transform-of-an-array](https://github.com/keyurmishra/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keyurmishra/Problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/keyurmishra/Problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keyurmishra/Problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
+| [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,4 +225,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
