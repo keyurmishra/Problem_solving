@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/keyurmishra/Problem_solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/keyurmishra/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/keyurmishra/Problem_solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -234,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/keyurmishra/Problem_solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
