@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keyurmishra/Problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/keyurmishra/Problem_solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/keyurmishra/Problem_solving/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/keyurmishra/Problem_solving/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Sorting
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keyurmishra/Problem_solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/keyurmishra/Problem_solving/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
