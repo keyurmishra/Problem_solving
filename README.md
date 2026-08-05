@@ -171,12 +171,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/keyurmishra/Problem_solving/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/keyurmishra/Problem_solving/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/keyurmishra/Problem_solving/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/keyurmishra/Problem_solving/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/keyurmishra/Problem_solving/tree/master/0547-number-of-provinces) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
+| [3310-remove-methods-from-project](https://github.com/keyurmishra/Problem_solving/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/keyurmishra/Problem_solving/tree/master/0547-number-of-provinces) |
 | [1615-maximal-network-rank](https://github.com/keyurmishra/Problem_solving/tree/master/1615-maximal-network-rank) |
+| [3310-remove-methods-from-project](https://github.com/keyurmishra/Problem_solving/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
