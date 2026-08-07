@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
 | [1331-rank-transform-of-an-array](https://github.com/keyurmishra/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/keyurmishra/Problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keyurmishra/Problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/keyurmishra/Problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
