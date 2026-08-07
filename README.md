@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/keyurmishra/Problem_solving/tree/master/0796-rotate-string) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/keyurmishra/Problem_solving/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/keyurmishra/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/keyurmishra/Problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -258,4 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/keyurmishra/Problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
