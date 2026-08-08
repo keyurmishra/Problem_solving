@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keyurmishra/Problem_solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keyurmishra/Problem_solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/keyurmishra/Problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keyurmishra/Problem_solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keyurmishra/Problem_solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keyurmishra/Problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keyurmishra/Problem_solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
