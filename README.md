@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keyurmishra/Problem_solving/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/keyurmishra/Problem_solving/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keyurmishra/Problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/keyurmishra/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/keyurmishra/Problem_solving/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/keyurmishra/Problem_solving/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
