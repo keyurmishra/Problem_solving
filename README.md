@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/keyurmishra/Problem_solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/keyurmishra/Problem_solving/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/keyurmishra/Problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/keyurmishra/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
+| [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [0904-fruit-into-baskets](https://github.com/keyurmishra/Problem_solving/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/keyurmishra/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [1094-car-pooling](https://github.com/keyurmishra/Problem_solving/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/keyurmishra/Problem_solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
