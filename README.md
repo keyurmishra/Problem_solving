@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/keyurmishra/Problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keyurmishra/Problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/keyurmishra/Problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keyurmishra/Problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keyurmishra/Problem_solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/keyurmishra/Problem_solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Trie
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/keyurmishra/Problem_solving/tree/master/0134-gas-station) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keyurmishra/Problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -276,18 +280,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -314,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
