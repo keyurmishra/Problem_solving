@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [1094-car-pooling](https://github.com/keyurmishra/Problem_solving/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/keyurmishra/Problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/keyurmishra/Problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/keyurmishra/Problem_solving/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keyurmishra/Problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/keyurmishra/Problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keyurmishra/Problem_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keyurmishra/Problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/keyurmishra/Problem_solving/tree/master/3731-find-missing-elements) |
