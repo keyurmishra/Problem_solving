@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/keyurmishra/Problem_solving/tree/master/0796-rotate-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/keyurmishra/Problem_solving/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keyurmishra/Problem_solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/keyurmishra/Problem_solving/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/keyurmishra/Problem_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keyurmishra/Problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0134-gas-station](https://github.com/keyurmishra/Problem_solving/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/keyurmishra/Problem_solving/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/keyurmishra/Problem_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keyurmishra/Problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keyurmishra/Problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/keyurmishra/Problem_solving/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/keyurmishra/Problem_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keyurmishra/Problem_solving/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
