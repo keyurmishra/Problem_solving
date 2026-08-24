@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
+| [0516-longest-palindromic-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/keyurmishra/Problem_solving/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
