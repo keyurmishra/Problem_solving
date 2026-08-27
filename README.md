@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/keyurmishra/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/keyurmishra/Problem_solving/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keyurmishra/Problem_solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/keyurmishra/Problem_solving/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/keyurmishra/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/keyurmishra/Problem_solving/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
