@@ -1,24 +1,33 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
-        vector<int> ones;
-        for (int i = 0; i < s.length(); ++i) {
-            if (s[i] == '1') ones.push_back(i);
-        }
-        if (ones.size() < k) return "";
+       int n=s.length();
+       string ans="";
+       int minlen=INT_MAX;
+       for(int i=0;i<n;i++){
+        int one_count=0;
+        for(int j=i;j<n;j++){
+            if(s[j]=='1') one_count++;
+            if(one_count==k){
+                // to ek length find out hoyegi fir to 
+                int len=j-i+1;
+                string curr=s.substr(i,len);//this is foe the smaller lenght 
+                if(len<minlen){
+                    minlen=len;
+                    ans=curr;// ans to vo hoyega like substrng of the minlen 
 
-        string ans = "";
-        for (int i = 0; i + k - 1 < ones.size(); ++i) {
-            int start = ones[i];
-            int end = ones[i + k - 1];
-            string sub = s.substr(start, end - start + 1);
-            if (ans.empty() || sub.length() < ans.length() || 
-               (sub.length() == ans.length() && sub < ans)) {
-                ans = sub;
+                }
+                else if(len==minlen && curr<ans){
+                    ans=curr;
+                }
+
+            }
+            if(one_count>k){
+                break;
             }
         }
-
-        return ans;
-        
+       }
+       return ans;
     }
+    
 };
