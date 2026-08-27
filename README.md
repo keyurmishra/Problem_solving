@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keyurmishra/Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/keyurmishra/Problem_solving/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/keyurmishra/Problem_solving/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/keyurmishra/Problem_solving/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
@@ -403,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keyurmishra/Problem_solving/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/keyurmishra/Problem_solving/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
