@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/keyurmishra/Problem_solving/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keyurmishra/Problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/keyurmishra/Problem_solving/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/keyurmishra/Problem_solving/tree/master/2000-reverse-prefix-of-word) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keyurmishra/Problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/keyurmishra/Problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/keyurmishra/Problem_solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keyurmishra/Problem_solving/tree/master/1510-stone-game-iv) |
