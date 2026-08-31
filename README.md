@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/keyurmishra/Problem_solving/tree/master/0061-rotate-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keyurmishra/Problem_solving/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
