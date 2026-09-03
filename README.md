@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/keyurmishra/Problem_solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keyurmishra/Problem_solving/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keyurmishra/Problem_solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/keyurmishra/Problem_solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keyurmishra/Problem_solving/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/keyurmishra/Problem_solving/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/keyurmishra/Problem_solving/tree/master/0198-house-robber) |
