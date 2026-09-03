@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keyurmishra/Problem_solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keyurmishra/Problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/keyurmishra/Problem_solving/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/keyurmishra/Problem_solving/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keyurmishra/Problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
