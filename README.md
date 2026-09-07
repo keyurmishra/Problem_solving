@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/keyurmishra/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/keyurmishra/Problem_solving/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/keyurmishra/Problem_solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/keyurmishra/Problem_solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/keyurmishra/Problem_solving/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/keyurmishra/Problem_solving/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/1143-longest-common-subsequence) |
