@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/keyurmishra/Problem_solving/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/keyurmishra/Problem_solving/tree/master/0547-number-of-provinces) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keyurmishra/Problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/keyurmishra/Problem_solving/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -474,4 +475,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keyurmishra/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keyurmishra/Problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keyurmishra/Problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
