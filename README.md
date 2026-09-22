@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/keyurmishra/Problem_solving/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/keyurmishra/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
 | [1094-car-pooling](https://github.com/keyurmishra/Problem_solving/tree/master/1094-car-pooling) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/keyurmishra/Problem_solving/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/keyurmishra/Problem_solving/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/keyurmishra/Problem_solving/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/keyurmishra/Problem_solving/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/keyurmishra/Problem_solving/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/0633-sum-of-square-numbers) |
@@ -499,10 +501,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/keyurmishra/Problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/keyurmishra/Problem_solving/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/keyurmishra/Problem_solving/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keyurmishra/Problem_solving/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/keyurmishra/Problem_solving/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/keyurmishra/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -529,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/keyurmishra/Problem_solving/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
