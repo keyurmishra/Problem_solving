@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keyurmishra/Problem_solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/keyurmishra/Problem_solving/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keyurmishra/Problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/keyurmishra/Problem_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/keyurmishra/Problem_solving/tree/master/0130-surrounded-regions) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/keyurmishra/Problem_solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keyurmishra/Problem_solving/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/keyurmishra/Problem_solving/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keyurmishra/Problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/keyurmishra/Problem_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keyurmishra/Problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
