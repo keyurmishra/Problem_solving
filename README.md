@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/keyurmishra/Problem_solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/keyurmishra/Problem_solving/tree/master/0072-edit-distance) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keyurmishra/Problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keyurmishra/Problem_solving/tree/master/0064-minimum-path-sum) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -571,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/keyurmishra/Problem_solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
