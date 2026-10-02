@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/keyurmishra/Problem_solving/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/keyurmishra/Problem_solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keyurmishra/Problem_solving/tree/master/0115-distinct-subsequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0583-delete-operation-for-two-strings) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/keyurmishra/Problem_solving/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/keyurmishra/Problem_solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keyurmishra/Problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/keyurmishra/Problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/keyurmishra/Problem_solving/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/keyurmishra/Problem_solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/keyurmishra/Problem_solving/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/keyurmishra/Problem_solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/keyurmishra/Problem_solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -396,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/keyurmishra/Problem_solving/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/keyurmishra/Problem_solving/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
@@ -576,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/keyurmishra/Problem_solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
