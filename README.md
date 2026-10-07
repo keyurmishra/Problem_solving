@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/keyurmishra/Problem_solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keyurmishra/Problem_solving/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [0415-add-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/keyurmishra/Problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keyurmishra/Problem_solving/tree/master/0583-delete-operation-for-two-strings) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/keyurmishra/Problem_solving/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/keyurmishra/Problem_solving/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/keyurmishra/Problem_solving/tree/master/1162-as-far-from-land-as-possible) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/keyurmishra/Problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/keyurmishra/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keyurmishra/Problem_solving/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keyurmishra/Problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
