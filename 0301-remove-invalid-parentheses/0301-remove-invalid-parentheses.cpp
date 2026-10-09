@@ -1,76 +1,45 @@
 class Solution {
 public:
-    vector<string> ans;
-
-    void dfs(string s, int start, int leftRemove, int rightRemove) {
-
-        // If removals are finished, check validity
-        if (leftRemove == 0 && rightRemove == 0) {
-            int balance = 0;
-
-            for (char c : s) {
-                if (c == '(')
-                    balance++;
-                else if (c == ')') {
-                    balance--;
-
-                    if (balance < 0)
-                        return;
+    unordered_set<string>st;
+    void solve(string &s,int n,int i,string &curr,int &maxlen,int count){
+        //BASE CASE 
+        if(count<0)return;
+        if(i==n){
+            if(count ==0){
+                if(curr.length()>maxlen){
+                    maxlen=curr.length();
+                    st.clear();
+                    st.insert(curr);
+                }
+                else if(curr.length() == maxlen){
+                    st.insert(curr);
                 }
             }
-
-            if (balance == 0)
-                ans.push_back(s);
-
             return;
         }
-
-        for (int i = start; i < s.size(); i++) {
-
-            // Avoid duplicate removals
-            if (i > start && s[i] == s[i - 1])
-                continue;
-
-            // Remove ')'
-            if (rightRemove > 0 && s[i] == ')') {
-
-                string next = s.substr(0, i) + s.substr(i + 1);
-
-                dfs(next, i, leftRemove, rightRemove - 1);
-            }
-
-            // Remove '('
-            if (leftRemove > 0 && s[i] == '(') {
-
-                string next = s.substr(0, i) + s.substr(i + 1);
-
-                dfs(next, i, leftRemove - 1, rightRemove);
-            }
+        //if non brakrt are there 
+        if(s[i]!='(' && s[i]!=')'){
+            curr.push_back(s[i]);
+            solve(s,n,i+1,curr,maxlen,count);
+            curr.pop_back();
+            return;
         }
+        //include the curr bracket 
+        curr.push_back(s[i]);
+        solve(s,n,i+1,curr,maxlen,count+(s[i] =='('?1:-1));
+        curr.pop_back();
+        //remove the curr bracket 
+        solve(s,n,i+1,curr,maxlen,count);
+
     }
-
     vector<string> removeInvalidParentheses(string s) {
-
-        int leftRemove = 0;
-        int rightRemove = 0;
-
-        // Calculate minimum removals
-        for (char c : s) {
-
-            if (c == '(') {
-                leftRemove++;
-            }
-            else if (c == ')') {
-
-                if (leftRemove > 0)
-                    leftRemove--;
-                else
-                    rightRemove++;
-            }
-        }
-
-        dfs(s, 0, leftRemove, rightRemove);
-
+        int n=s.length();
+        st.clear();
+        int maxlen=0;
+        string curr="";
+        solve(s,n,0,curr,maxlen,0);
+        vector<string>ans(st.begin(),st.end());
         return ans;
+        
     }
 };
