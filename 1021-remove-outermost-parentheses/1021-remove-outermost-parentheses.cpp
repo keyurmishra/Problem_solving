@@ -1,24 +1,40 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
+        // int n=s.length();
+        // string ans="";
+        // int count=0;
+        // for(int i=0;i<n;i++){
+        //     if(s[i] == '('){
+        //         if(count>0){
+        //             ans+=s[i];
+        //         }
+        //         count++;
+        //     }
+        //     else{
+        //         count--;
+        //         if(count>0){
+        //             ans+=s[i];
+        //         }
+        //     }
+        // }
+        // return ans;
         int n=s.length();
         string ans="";
-        int incr_count=0;
+        int count=0;
+        int start=0;
         for(int i=0;i<n;i++){
-            if(s[i]=='('){
-                if(incr_count>0){
-                    ans+=s[i];
-                }
-                incr_count++;
+            if(s[i] == '('){
+                count++;
             }
             else{
-                incr_count--;
-                if(incr_count>0){
-                    ans+=s[i];
-                }
+                count--;
+            }
+            if(count==0){
+                ans+=s.substr(start+1,i-start-1);
+                start=i+1;
             }
         }
         return ans;
-        
     }
 };
